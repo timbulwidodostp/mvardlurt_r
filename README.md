@@ -1,6 +1,8 @@
 # mvardlurt_r
 Multivariate Autoregressive Distributed Lag (ARDL) Unit Root Test Use mvardlurt With (In) R Software
 
+https://www.youtube.com/watch?v=ZfZ8LGCsQdg
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
